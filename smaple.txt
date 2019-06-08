@@ -1,1 +1,2 @@
-This is original sample(new branch) file.
+
+This is original sample(master+new branch) file.
